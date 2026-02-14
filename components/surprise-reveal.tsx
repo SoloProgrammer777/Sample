@@ -280,7 +280,7 @@ export function SurpriseReveal() {
             {"\u2764\uFE0F"}
           </span>
           <h1 className="font-cursive text-4xl leading-tight text-foreground md:text-6xl text-balance">
-            Happy Valentine{"'"}s Day, Maanvi
+            Happy Valentine{"'"}s Day, Maanvii
           </h1>
         </div>
 
